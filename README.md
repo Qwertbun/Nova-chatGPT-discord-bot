@@ -1,5 +1,7 @@
 # ChatGPT Discord Bot - Nova
 
+# Original: https://github.com/Zero6992/chatGPT-discord-bot
+
 > ### Build your own Discord bot using ChatGPT
 
 ---
